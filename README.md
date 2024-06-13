@@ -1,0 +1,1 @@
+Dieses Programm erhält den Namen eines Autos vom Benutzer und berechnet den durchschnittlich produzierten CO2-Ausstoß aus einer CSV_Datei. Dann sendet es die Namen aller Autos in der Datei an diese Funktion und speichert die Ausgabe in einer Textdatei.
